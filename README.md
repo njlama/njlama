@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njlama
 - 👀 I’m interested in Front-end Programming.
-- 🌱 Skilled at Front end frameworks - REact, Vue, Nuxt, Backbone.
+- 🌱 Skilled at Front end frameworks - React, Next, Vue, Nuxt, Backbone.
 - 📫 email me at njlama33@gmail.com
 
 <!---
